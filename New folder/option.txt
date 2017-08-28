@@ -1,0 +1,23 @@
+USE [codewhiz]
+GO
+
+/****** Object:  Table [dbo].[option]    Script Date: 02/11/2014 13:00:47 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+SET ANSI_PADDING ON
+GO
+
+CREATE TABLE [dbo].[option](
+	[qu_id] [int] NOT NULL,
+	[options] [varchar](100) NOT NULL
+) ON [PRIMARY]
+
+GO
+
+SET ANSI_PADDING OFF
+GO
+

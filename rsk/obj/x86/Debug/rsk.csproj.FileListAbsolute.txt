@@ -1,0 +1,63 @@
+c:\users\elcot\documents\visual studio 2010\Projects\rsk\rsk\bin\Debug\rsk.exe
+c:\users\elcot\documents\visual studio 2010\Projects\rsk\rsk\bin\Debug\rsk.pdb
+c:\users\elcot\documents\visual studio 2010\Projects\rsk\rsk\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\elcot\documents\visual studio 2010\Projects\rsk\rsk\obj\x86\Debug\rsk.Properties.Resources.resources
+c:\users\elcot\documents\visual studio 2010\Projects\rsk\rsk\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\elcot\documents\visual studio 2010\Projects\rsk\rsk\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\elcot\documents\visual studio 2010\Projects\rsk\rsk\obj\x86\Debug\rsk.exe
+c:\users\elcot\documents\visual studio 2010\Projects\rsk\rsk\obj\x86\Debug\rsk.pdb
+C:\Users\rsk\Desktop\New folder\rsk\rsk\obj\x86\Debug\rsk.exe
+C:\Users\rsk\Desktop\New folder\rsk\rsk\obj\x86\Debug\rsk.pdb
+C:\Users\rsk\Desktop\New folder\rsk\rsk\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rsk\Desktop\New folder\rsk\rsk\obj\x86\Debug\rsk.Form1.resources
+C:\Users\rsk\Desktop\New folder\rsk\rsk\obj\x86\Debug\rsk.Properties.Resources.resources
+C:\Users\rsk\Desktop\New folder\rsk\rsk\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\rsk\Desktop\New folder\rsk\rsk\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\rsk\Documents\Visual Studio 2010\Projects\rsk\rsk\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rsk\Documents\Visual Studio 2010\Projects\rsk\rsk\obj\x86\Debug\rsk.Form1.resources
+C:\Users\rsk\Documents\Visual Studio 2010\Projects\rsk\rsk\obj\x86\Debug\rsk.Properties.Resources.resources
+C:\Users\rsk\Documents\Visual Studio 2010\Projects\rsk\rsk\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\rsk\Documents\Visual Studio 2010\Projects\rsk\rsk\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\rsk\Documents\Visual Studio 2010\Projects\rsk\rsk\bin\Debug\rsk.exe
+C:\Users\rsk\Documents\Visual Studio 2010\Projects\rsk\rsk\bin\Debug\rsk.pdb
+C:\Users\rsk\Documents\Visual Studio 2010\Projects\rsk\rsk\obj\x86\Debug\rsk.exe
+C:\Users\rsk\Documents\Visual Studio 2010\Projects\rsk\rsk\obj\x86\Debug\rsk.pdb
+C:\Users\Elcot\Documents\Visual Studio 2010\Projects\rsk\rsk\obj\x86\Debug\rsk.frmgroup.resources
+C:\Users\Elcot\Documents\Visual Studio 2010\Projects\rsk\rsk\obj\x86\Debug\rsk.frmsubgroup.resources
+C:\Users\Elcot\Documents\Visual Studio 2010\Projects\rsk\rsk\obj\x86\Debug\rsk.frmtax.resources
+C:\Users\Elcot\Documents\Visual Studio 2010\Projects\rsk\rsk\bin\Debug\rsk.exe.config
+C:\Users\Elcot\Documents\Visual Studio 2010\Projects\rsk\rsk\obj\x86\Debug\rsk.frmitem.resources
+C:\Users\sangeeth\Desktop\rsk\rsk\bin\Debug\rsk.exe.config
+C:\Users\sangeeth\Desktop\rsk\rsk\obj\x86\Debug\rsk.exe
+C:\Users\sangeeth\Desktop\rsk\rsk\obj\x86\Debug\rsk.pdb
+C:\Users\sangeeth\Desktop\rsk\rsk\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sangeeth\Desktop\rsk\rsk\obj\x86\Debug\rsk.frmitem.resources
+C:\Users\sangeeth\Desktop\rsk\rsk\obj\x86\Debug\rsk.frmgroup.resources
+C:\Users\sangeeth\Desktop\rsk\rsk\obj\x86\Debug\rsk.frmsubgroup.resources
+C:\Users\sangeeth\Desktop\rsk\rsk\obj\x86\Debug\rsk.frmtax.resources
+C:\Users\sangeeth\Desktop\rsk\rsk\obj\x86\Debug\rsk.Properties.Resources.resources
+C:\Users\sangeeth\Desktop\rsk\rsk\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sangeeth\Desktop\rsk\rsk\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\sangeeth\Desktop\rsk\rsk\obj\x86\Debug\rsk.forms.frmmenu.resources
+C:\Users\sangeeth\Desktop\rsk\rsk\bin\Debug\rsk.exe
+C:\Users\sangeeth\Desktop\rsk\rsk\bin\Debug\rsk.pdb
+C:\Users\Elcot\Documents\Visual Studio 2010\Projects\rsk\rsk\obj\x86\Debug\rsk.main.resources
+C:\Users\Elcot\Documents\Visual Studio 2010\Projects\rsk\rsk\obj\x86\Debug\rsk.suplier.resources
+C:\Users\Elcot\Documents\Visual Studio 2010\Projects\rsk\rsk\obj\x86\Debug\rsk.frmsupplier.resources
+C:\Users\Elcot\Documents\Visual Studio 2010\Projects\rsk\rsk\obj\x86\Debug\rsk.frmcustomer.resources
+D:\projects\New folder (3)\rsk\rsk\bin\Debug\rsk.exe.config
+D:\projects\New folder (3)\rsk\rsk\obj\x86\Debug\rsk.exe
+D:\projects\New folder (3)\rsk\rsk\obj\x86\Debug\rsk.pdb
+D:\projects\New folder (3)\rsk\rsk\bin\Debug\rsk.exe
+D:\projects\New folder (3)\rsk\rsk\bin\Debug\rsk.pdb
+D:\projects\New folder (3)\rsk\rsk\obj\x86\Debug\rsk.frmitem.resources
+D:\projects\New folder (3)\rsk\rsk\obj\x86\Debug\rsk.frmgroup.resources
+D:\projects\New folder (3)\rsk\rsk\obj\x86\Debug\rsk.frmsubgroup.resources
+D:\projects\New folder (3)\rsk\rsk\obj\x86\Debug\rsk.frmsupplier.resources
+D:\projects\New folder (3)\rsk\rsk\obj\x86\Debug\rsk.frmtax.resources
+D:\projects\New folder (3)\rsk\rsk\obj\x86\Debug\rsk.main.resources
+D:\projects\New folder (3)\rsk\rsk\obj\x86\Debug\rsk.suplier.resources
+D:\projects\New folder (3)\rsk\rsk\obj\x86\Debug\rsk.frmcustomer.resources
+D:\projects\New folder (3)\rsk\rsk\obj\x86\Debug\rsk.Properties.Resources.resources
+D:\projects\New folder (3)\rsk\rsk\obj\x86\Debug\rsk.csprojResolveAssemblyReference.cache
+D:\projects\New folder (3)\rsk\rsk\obj\x86\Debug\rsk.csproj.GenerateResource.Cache

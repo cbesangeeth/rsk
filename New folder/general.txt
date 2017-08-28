@@ -1,0 +1,23 @@
+USE [codewhiz]
+GO
+
+/****** Object:  Table [dbo].[general]    Script Date: 02/11/2014 12:59:50 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[general](
+	[quiz_time] [int] NOT NULL,
+	[no_question] [int] NULL
+) ON [PRIMARY]
+
+GO
+
+ALTER TABLE [dbo].[general] ADD  CONSTRAINT [DF_general_quiz_time]  DEFAULT ((120)) FOR [quiz_time]
+GO
+
+ALTER TABLE [dbo].[general] ADD  CONSTRAINT [DF_general_no_question]  DEFAULT ((120)) FOR [no_question]
+GO
+
